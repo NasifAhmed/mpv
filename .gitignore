@@ -1,3 +1,10 @@
+doc/
+installer/
+mpv.com
+mpv.exe
+updater.bat
+d3dcompiler_43.dll
+
 # Compiled class file
 *.class
 
